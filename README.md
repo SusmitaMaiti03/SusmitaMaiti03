@@ -1,8 +1,8 @@
 ### HEY, I'm Susmita! 
 <br>🔭 I’m currently working on [MERN Project](https://github.com/SusmitaMaiti03/MERN-Project) </br>
-<br>🌱 I'm currently learning:
-     - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-     - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> </br>
+<br>🌱 I'm currently learning:</br>
+     <br>- Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)</br>
+     <br>- Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> </br>
 <br>📫 How to reach me [@It's me](maitisusmi2003@gmail.com)</br>
 <br>👨‍💻 All of my projects are available at [SusmitaMaiti03](https://github.com/SusmitaMaiti03)</br>
 
