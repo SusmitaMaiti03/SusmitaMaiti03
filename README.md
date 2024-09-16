@@ -1,5 +1,5 @@
 ### HEY, I'm Susmita!
-🔭 I’m currently working on MERN Project [ Online Food Ordering System](https://github.com/SusmitaMaiti03/MERN-Project) <br>🌱 I’m currently learning MERN ,Python <br>📫 How to reach me [It,s me Susmita](maitisusmi2003@gmail.com)<br>👨‍💻 All of my projects are available at [SusmitaMaiti03](https://github.com/SusmitaMaiti03)<br>
+🔭 I’m currently working on MERN Project [ Online Food Ordering System](https://github.com/SusmitaMaiti03/MERN-Project) <br>🌱 I’m currently learning MERN ,Python <br>📫 How to reach me [It's me](maitisusmi2003@gmail.com)<br>👨‍💻 All of my projects are available at [SusmitaMaiti03](https://github.com/SusmitaMaiti03)<br>
 
 
 ## 🌐 Socials:
