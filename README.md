@@ -1,4 +1,4 @@
-# 💫 About Me:
+### HEY, I'm Susmita!
 🔭 I’m currently working on MERN Project [ Online Food Ordering System] <br>🌱 I’m currently learning MERN ,Python <br>📫 How to reach me maitisusmi2003@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/SusmitaMaiti03<br>
 
 
