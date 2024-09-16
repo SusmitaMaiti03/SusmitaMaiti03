@@ -1,10 +1,10 @@
 ### HEY, I'm Susmita! 
--🔭 I’m currently working on [MERN Project](https://github.com/SusmitaMaiti03/MERN-Project) 
+- 🔭 I’m currently working on [MERN Project](https://github.com/SusmitaMaiti03/MERN-Project) 
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> 
--📫 How to reach me [@It's me](maitisusmi2003@gmail.com)
--👨‍💻 All of my projects are available at [SusmitaMaiti03](https://github.com/SusmitaMaiti03)
+   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> 
+- 📫 How to reach me [@It's me](maitisusmi2003@gmail.com)
+- 👨‍💻 All of my projects are available at [SusmitaMaiti03](https://github.com/SusmitaMaiti03)
 
 
 ## 🌐 Socials:
